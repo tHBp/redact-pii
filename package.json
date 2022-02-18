@@ -1,6 +1,6 @@
 {
-  "name": "redact-pii",
-  "version": "3.2.3",
+  "name": "redact-pii-light",
+  "version": "1.0.0",
   "description": "Remove personally identifiable information from text.",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/solvvy/redact-pii.git"
+    "url": "https://github.com/tHBp/redact-pii-light.git"
   },
-  "author": "Christian Theilemann <christian@solvvy.com>",
+  "author": "tHBp <thehalfbloodprince.github@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.20"

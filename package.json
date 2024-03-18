@@ -23,7 +23,7 @@
     "lodash": "^4.17.20"
   },
   "peerDependencies": {
-    "@google-cloud/dlp": "^2.2.0"
+    "@google-cloud/dlp": "^5.3.0"
   },
   "devDependencies": {
     "@types/jest": "28.1.6",

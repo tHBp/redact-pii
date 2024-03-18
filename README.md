@@ -43,7 +43,7 @@ redactor.redactAsync('Hi David Johnson, Please give me a call at 555-555-5555').
   - creditCardNumber
   - emailAddress
   - ipAddress
-  - name
+  - names
   - password
   - phoneNumber
   - streetAddress

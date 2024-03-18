@@ -6,7 +6,7 @@ import {
   IAsyncRedactor,
   ISyncRedactor,
   IRedactor,
-  SimpleRegexpCustomRedactorConfig
+  SimpleRegexpCustomRedactorConfig,
 } from './types';
 
 export {
@@ -19,5 +19,5 @@ export {
   IAsyncRedactor,
   ISyncRedactor,
   IRedactor,
-  SimpleRegexpCustomRedactorConfig
+  SimpleRegexpCustomRedactorConfig,
 };

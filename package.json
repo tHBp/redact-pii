@@ -1,5 +1,5 @@
 {
-  "name": "redact-pii-light",
+  "name": "@libretto/redact-pii-light",
   "version": "1.0.0",
   "description": "Remove personally identifiable information from text.",
   "main": "lib/index.js",
